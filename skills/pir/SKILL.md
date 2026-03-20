@@ -208,9 +208,9 @@ After receiving Codex's review:
 
 ## When the User Provides Arguments
 
-If invoked as `/implement <description>`, treat the description as the task and start Phase 1 immediately by reading the relevant codebase.
+If invoked as `/pir <description>`, treat the description as the task and start Phase 1 immediately by reading the relevant codebase.
 
-If invoked as just `/implement`, ask:
+If invoked as just `/pir`, ask:
 > What would you like me to implement?
 
 ## Opting Out of Codex Reviews
